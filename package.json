@@ -1,6 +1,7 @@
 {
   "name": "cssnano-core",
   "private": true,
+  "version" "4.1.11",
   "scripts": {
     "all-contributors": "all-contributors add",
     "lint": "eslint . --cache --ignore-path .gitignore",
